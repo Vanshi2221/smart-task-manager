@@ -1,0 +1,6 @@
+{
+    "name":"Smart Task Manager",
+    "image": "mcr.microsoft.com/devcontainers/javascript-node:20",
+    "postCreateCommand": "npm install -g nodemon",
+    "forwardPorts": [3000,5000]
+}
